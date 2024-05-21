@@ -31,11 +31,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=IvanBF9&theme=dracula&column=6&row=1&margin-w=6&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
