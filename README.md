@@ -7,7 +7,7 @@
 - I love web scraping in all its forms
 - Proficient in the JavaScript environment
 - Strong foundation in DevOps
-- Strong in deadlift, bench press, and squat
+- SBD 🏋️
 - And much more 😉
 
 ###
