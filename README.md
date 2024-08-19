@@ -12,6 +12,9 @@
 
 Currently learning Rust
 
+### Contact
+ivanbraga6@protonmail.com
+
 ###
 
 <div align="left">
