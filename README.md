@@ -12,6 +12,8 @@
 
 Currently learning Rust
 
+### Portfolio
+https://ivanb.dev/en
 ### Contact
 ivanbraga6@protonmail.com
 
