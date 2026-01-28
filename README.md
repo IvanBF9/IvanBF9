@@ -10,13 +10,10 @@
 - SBD 🏋️
 - And much more 😉
 
-Currently learning Rust
-
 ### Portfolio
 https://ivanb.dev
 ### Contact
-ivanbraga6@protonmail.com
-
+ivanbragafernandes@gmail.com
 ###
 
 <div align="left">
